@@ -9,7 +9,7 @@ The Master turtle catches the nearest sister turtle.
 source .bashrc
 ```
 
-- Build the project
+- Build the project in the workspace
 
 ```bash
 colcon build --packages-select my_robot_bringup --symlink-install 
